@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /Users/francanete/workspace/fran-marketplace -name \"*.json\" -exec sh -c 'echo \"\"=== $1 ===\"\" && head -20 \"\"$1\"\"' _ {} ;)",
+      "Skill(plugin-dev:plugin-structure)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
