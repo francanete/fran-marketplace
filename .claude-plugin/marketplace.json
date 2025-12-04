@@ -1,6 +1,9 @@
 {
   "name": "fran-marketplace",
-  "owner": "francanete",
+  "owner": {
+    "name": "francanete",
+    "url": "https://github.com/francanete"
+  },
   "description": "Personal plugin marketplace for Fran's development workflows",
   "plugins": [
     {
