@@ -1,10 +1,11 @@
 {
   "name": "fran-marketplace",
+  "owner": "francanete",
   "description": "Personal plugin marketplace for Fran's development workflows",
   "plugins": [
     {
       "name": "database-expert",
-      "path": "./database-expert"
+      "source": "./database-expert"
     }
   ]
 }
