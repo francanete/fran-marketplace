@@ -12,6 +12,12 @@
       "description": "Database architecture, schema design, and optimization for PostgreSQL and Sequelize",
       "source": "./database-expert",
       "category": "development"
+    },
+    {
+      "name": "chrome-extension-expert",
+      "description": "Chrome Extension development expert for Manifest V3, APIs, security, side panels, and Web Store submission",
+      "source": "./chrome-extension-expert",
+      "category": "development"
     }
   ]
 }

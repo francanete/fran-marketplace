@@ -1,0 +1,19 @@
+{
+  "name": "chrome-extension-expert",
+  "description": "Chrome Extension development expert covering Manifest V3, extension APIs, security best practices, and Chrome Web Store submission. Use for extension architecture, implementation, debugging, and store approval guidance.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Fran Canete"
+  },
+  "keywords": [
+    "chrome",
+    "extension",
+    "manifest-v3",
+    "browser",
+    "web-store",
+    "service-worker",
+    "content-script",
+    "popup",
+    "side-panel"
+  ]
+}
