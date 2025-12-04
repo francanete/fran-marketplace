@@ -1,14 +1,17 @@
 {
   "name": "fran-marketplace",
+  "version": "1.0.0",
+  "description": "Personal plugin marketplace for Fran's development workflows",
   "owner": {
     "name": "francanete",
     "url": "https://github.com/francanete"
   },
-  "description": "Personal plugin marketplace for Fran's development workflows",
   "plugins": [
     {
       "name": "database-expert",
-      "source": "./database-expert"
+      "description": "Database architecture, schema design, and optimization for PostgreSQL and Sequelize",
+      "source": "./database-expert",
+      "category": "development"
     }
   ]
 }
