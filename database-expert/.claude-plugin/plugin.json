@@ -1,0 +1,14 @@
+{
+  "name": "database-expert",
+  "description": "Database architecture, schema design, and optimization for PostgreSQL and Sequelize. Use for DB design decisions, data modeling, query optimization, and migration strategies.",
+  "version": "1.0.0",
+  "author": "Fran Canete",
+  "keywords": ["postgresql", "postgres", "sequelize", "database", "schema", "architecture", "sql", "orm"],
+  "mcpServers": [
+    {
+      "name": "postgres-documentation",
+      "description": "PostgreSQL documentation and skills for writing better Postgres code",
+      "url": "https://mcp.tigerdata.com/docs"
+    }
+  ]
+}

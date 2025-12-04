@@ -1,0 +1,10 @@
+{
+  "name": "fran-marketplace",
+  "description": "Personal plugin marketplace for Fran's development workflows",
+  "plugins": [
+    {
+      "name": "database-expert",
+      "path": "./database-expert"
+    }
+  ]
+}
