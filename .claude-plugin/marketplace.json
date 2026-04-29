@@ -18,6 +18,15 @@
       "description": "Chrome Extension development expert for Manifest V3, APIs, security, side panels, and Web Store submission",
       "source": "./chrome-extension-expert",
       "category": "development"
+    },
+    {
+      "name": "fran-skills",
+      "description": "Personal Claude Code skills (skill-wizard, agent-wizard, quality code review, SEO writing, and more)",
+      "source": {
+        "source": "github",
+        "repo": "francanete/skills"
+      },
+      "category": "tooling"
     }
   ]
 }
