@@ -20,13 +20,24 @@
       "category": "development"
     },
     {
-      "name": "fran-skills",
-      "description": "Personal Claude Code skills (skill-wizard, agent-wizard, quality code review, SEO writing, and more)",
+      "name": "fran-general",
+      "description": "General Claude Code tooling: skill/agent wizards, code review",
       "source": {
-        "source": "github",
-        "repo": "francanete/skills"
+        "source": "git-subdir",
+        "url": "francanete/skills",
+        "path": "general"
       },
       "category": "tooling"
+    },
+    {
+      "name": "fran-productivity",
+      "description": "Productivity skills: SEO writing, direct-response copy review, product ideation, Linear issue creation",
+      "source": {
+        "source": "git-subdir",
+        "url": "francanete/skills",
+        "path": "productivity"
+      },
+      "category": "productivity"
     }
   ]
 }
