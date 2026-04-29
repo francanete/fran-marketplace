@@ -24,7 +24,7 @@
       "description": "General Claude Code tooling: skill/agent wizards, code review",
       "source": {
         "source": "git-subdir",
-        "url": "francanete/skills",
+        "url": "https://github.com/francanete/skills.git",
         "path": "general"
       },
       "category": "tooling"
@@ -34,7 +34,7 @@
       "description": "Productivity skills: SEO writing, direct-response copy review, product ideation, Linear issue creation",
       "source": {
         "source": "git-subdir",
-        "url": "francanete/skills",
+        "url": "https://github.com/francanete/skills.git",
         "path": "productivity"
       },
       "category": "productivity"
